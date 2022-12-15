@@ -4,7 +4,7 @@ Nous sommes une communauté de programmeur amateur qui veulent juste coder des p
 
 # Notre but
 
-Nous voulons aider et contribuer.
+Nous voulons aider et créer des projets avec les gens.
 
 # Nos projets
 
