@@ -16,7 +16,7 @@ Nous voulons aider et créer des projets avec les gens.
 ## [Artic](https://github.com/ArticOff/)
 - [PotatoLang](https://github.com/ArticOff/PotatoLang/)
 - [uptobox](https://uptobox.readthedocs.io/en/latest/)
-- [ArticOff](https://articoff.github.io//)
+- [ArticOff](https://articoff.github.io/)
 
 # Liens
 
